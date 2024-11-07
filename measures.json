@@ -1,109 +1,12 @@
 {
   "measure": {
     "dimension": {
-      "border-radius": {
-        "none": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure",
-          "comment": "No radius"
-        },
-        "small": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 3
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        },
-        "default": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 5
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        },
-        "medium": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 8
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        },
-        "large": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 12
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        },
-        "full": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 999
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure",
-          "comment": "Essentially a circle"
-        }
-      },
       "shadow": {
         "focus-ring-width": {
           "value": {
             "measure": {
               "type": "size",
               "value": 3
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        }
-      },
-      "opacity": {
-        "disabled": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 50
             },
             "unit": {
               "type": "string",
@@ -284,6 +187,103 @@
             },
             "type": "measure"
           }
+        }
+      },
+      "border-radius": {
+        "none": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure",
+          "comment": "No radius"
+        },
+        "small": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 3
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "default": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 5
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "medium": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 8
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "large": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 12
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "full": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 999
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure",
+          "comment": "Essentially a circle"
+        }
+      },
+      "opacity": {
+        "disabled": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 50
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
         }
       }
     },
