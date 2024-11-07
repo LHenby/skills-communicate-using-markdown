@@ -241,6 +241,7 @@
     --colorSemanticSaleSale30Background: #5869c1;    
     --colorSemanticSaleSaleColor: #b7b7b7;    
     --colorColorDarkBlue: #ff0000;    
+    --colorColorTest: #ffffff;    
     --colorForegroundNeutral: var(--colorNeutralNeutral900);    
     --colorForegroundPrimary: var(--colorPrimaryPrimary800);    
     --colorForegroundCritical: var(--colorRedRed600);    
