@@ -1,26 +1,26 @@
 
 :root {
     /* No radius */
-    --measureDimensionBorderRadiusNone: 0px;    
-    --measureDimensionBorderRadiusSmall: 3px;    
-    --measureDimensionBorderRadiusDefault: 5px;    
-    --measureDimensionBorderRadiusMedium: 7px;    
-    --measureDimensionBorderRadiusLarge: 12px;    
+    --measureBorderRadiusBorderRadiusNone: 0px;    
+    --measureBorderRadiusBorderRadiusSmall: 3px;    
+    --measureBorderRadiusBorderRadiusDefault: 5px;    
+    --measureBorderRadiusBorderRadiusMedium: 7px;    
+    --measureBorderRadiusBorderRadiusLarge: 12px;    
     /* Essentially a circle */
-    --measureDimensionBorderRadiusFull: 999px;    
-    --measureDimensionSpacing0: 0px;    
-    --measureDimensionSpacing2: 2px;    
-    --measureDimensionSpacing4: 4px;    
-    --measureDimensionSpacing8: 8px;    
-    --measureDimensionSpacing12: 12px;    
-    --measureDimensionSpacing16: 16px;    
-    --measureDimensionSpacing20: 20px;    
-    --measureDimensionSpacing24: 24px;    
-    --measureDimensionSpacing28: 28px;    
-    --measureDimensionSpacing32: 32px;    
-    --measureDimensionSpacing36: 36px;    
-    --measureDimensionSpacing40: 40px;    
+    --measureBorderRadiusBorderRadiusFull: 999px;    
+    --measureSpaceSpacing0: 0px;    
+    --measureSpaceSpacing2: 2px;    
+    --measureSpaceSpacing4: 4px;    
+    --measureSpaceSpacing8: 8px;    
+    --measureSpaceSpacing12: 12px;    
+    --measureSpaceSpacing16: 16px;    
+    --measureSpaceSpacing20: 20px;    
+    --measureSpaceSpacing24: 24px;    
+    --measureSpaceSpacing28: 28px;    
+    --measureSpaceSpacing32: 32px;    
+    --measureSpaceSpacing36: 36px;    
+    --measureSpaceSpacing40: 40px;    
     --measureDimensionSpacingSemanticStackGap: 1px;    
-    --measureDimensionOpacityDisabled: 50px;    
+    --measureOpacityOpacityDisabled: 50%;    
     --measureDimensionShadowFocusRingWidth: 3px;    
 }
