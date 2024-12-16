@@ -1,22 +1,25 @@
 {
   "measure": {
     "dimension": {
-      "border-radius": {
-        "none": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
+      "spacing": {
+        "semantic": {
+          "stack-gap": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 1
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
             },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure",
-          "comment": "No radius"
-        },
-        "small": {
+            "type": "measure"
+          }
+        }
+      },
+      "shadow": {
+        "focus-ring-width": {
           "value": {
             "measure": {
               "type": "size",
@@ -28,61 +31,30 @@
             }
           },
           "type": "measure"
-        },
-        "default": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 5
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        },
-        "medium": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 7
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        },
-        "large": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 12
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        },
-        "full": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 999
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure",
-          "comment": "Essentially a circle"
         }
       },
+      "border-radius": {},
+      "opacity": {}
+    },
+    "opacity": {
+      "opacity": {
+        "disabled": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 50
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          },
+          "type": "measure"
+        }
+      }
+    },
+    "size": {},
+    "space": {
       "spacing": {
         "0": {
           "value": {
@@ -239,40 +211,31 @@
             }
           },
           "type": "measure"
-        },
-        "semantic": {
-          "stack-gap": {
-            "value": {
-              "measure": {
-                "type": "size",
-                "value": 1
-              },
-              "unit": {
-                "type": "string",
-                "value": "pixels"
-              }
-            },
-            "type": "measure"
-          }
         }
-      },
-      "opacity": {
-        "disabled": {
+      }
+    },
+    "font-size": {},
+    "line-height": {},
+    "letter-spacing": {},
+    "paragraph-spacing": {},
+    "border-width": {},
+    "border-radius": {
+      "border-radius": {
+        "none": {
           "value": {
             "measure": {
               "type": "size",
-              "value": 50
+              "value": 0
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           },
-          "type": "measure"
-        }
-      },
-      "shadow": {
-        "focus-ring-width": {
+          "type": "measure",
+          "comment": "No radius"
+        },
+        "small": {
           "value": {
             "measure": {
               "type": "size",
@@ -284,18 +247,62 @@
             }
           },
           "type": "measure"
+        },
+        "default": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 5
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "medium": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 7
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "large": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 12
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "full": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 999
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure",
+          "comment": "Essentially a circle"
         }
       }
     },
-    "opacity": {},
-    "size": {},
-    "space": {},
-    "font-size": {},
-    "line-height": {},
-    "letter-spacing": {},
-    "paragraph-spacing": {},
-    "border-width": {},
-    "border-radius": {},
     "duration": {},
     "z-index": {}
   }
