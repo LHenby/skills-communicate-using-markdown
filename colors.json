@@ -146,7 +146,7 @@
         "type": "color"
       },
       "cyan-border": {
-        "value": "#baf0f4ff",
+        "value": "#b6e9ecff",
         "type": "color"
       },
       "fuchsia-foreground": {
@@ -158,11 +158,11 @@
         "type": "color"
       },
       "fuchsia-border": {
-        "value": "#f5dcfaff",
+        "value": "#f3d6f9ff",
         "type": "color"
       },
       "green-border": {
-        "value": "#bef9e0ff",
+        "value": "#c9e6daff",
         "type": "color"
       },
       "grey-foreground": {
@@ -186,7 +186,7 @@
         "type": "color"
       },
       "light-grey-border": {
-        "value": "#edeff3ff",
+        "value": "#e3e4e9ff",
         "type": "color"
       },
       "orange-foreground": {
@@ -198,7 +198,7 @@
         "type": "color"
       },
       "orange-border": {
-        "value": "#fbe7ccff",
+        "value": "#f9dbafff",
         "type": "color"
       },
       "pink-foreground": {
@@ -210,15 +210,15 @@
         "type": "color"
       },
       "purple-border": {
-        "value": "#ebe4ffff",
+        "value": "#e4dbfaff",
         "type": "color"
       },
       "pink-border": {
-        "value": "#ffe4f3ff",
+        "value": "#fad6eaff",
         "type": "color"
       },
       "red-border": {
-        "value": "#ffe9eaff",
+        "value": "#fcd7daff",
         "type": "color"
       },
       "teal-foreground": {
@@ -230,7 +230,7 @@
         "type": "color"
       },
       "teal-border": {
-        "value": "#ccf8eeff",
+        "value": "#cae5dfff",
         "type": "color"
       },
       "yellow-foreground": {
@@ -242,7 +242,7 @@
         "type": "color"
       },
       "yellow-border": {
-        "value": "#fef9c3ff",
+        "value": "#efe991ff",
         "type": "color"
       },
       "blue-foreground": {
