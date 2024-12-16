@@ -9,7 +9,7 @@
     <dimen name="dimension_border_radius_none">0dp</dimen>
     <dimen name="dimension_border_radius_small">3dp</dimen>
     <dimen name="dimension_border_radius_default">5dp</dimen>
-    <dimen name="dimension_border_radius_medium">8dp</dimen>
+    <dimen name="dimension_border_radius_medium">7dp</dimen>
     <dimen name="dimension_border_radius_large">12dp</dimen>
     <!-- 
         Essentially a circle 
@@ -31,9 +31,9 @@
 
     <dimen name="dimension_spacing_semantic_stack_gap">1dp</dimen> 
 
-    <dimen name="dimension_shadow_focus_ring_width">3dp</dimen> 
-
     <dimen name="dimension_opacity_disabled">50dp</dimen> 
+
+    <dimen name="dimension_shadow_focus_ring_width">3dp</dimen> 
  
  
  
